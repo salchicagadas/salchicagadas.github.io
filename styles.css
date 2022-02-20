@@ -307,8 +307,8 @@ a {
 	}
 
 	#header h1 {
-		display: fit;
-		padding-right: 2.5rem;
+		width: 70%;
+		margin: auto;
 	}
 
 
